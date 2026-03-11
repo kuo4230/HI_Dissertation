@@ -3,6 +3,7 @@
 **Unsupervised NLP pipeline for topic discovery across 63,474 Google Play Store reviews**
 
 UCL MSc Health Informatics Dissertation · Distinction Award · 2018  
+
 📄 *Dissertation available upon request*
 
 ---
