@@ -54,7 +54,17 @@ Mental health apps are increasingly used as frontline healthcare tools, yet ther
 ## Repo Structure
 
 ```
-to be updated
+HI-Dissertation/
+├── data/
+│   ├── raw/                        # Scraped raw CSVs (per search query, zipped)
+│   └── processed/                  # Filtered iteration output files (IT3, IT5–IT10)
+├── notebooks/                      # iPython notebooks (zipped)
+├── outputs/                        # HTML cluster visualizations (zipped)
+├── src/
+│   ├── scraping/                   # Selenium + BeautifulSoup scrapers (per query)
+│   └── clustering/                 # K-means iteration scripts (IT1–IT10)
+├── requirements.txt
+└── LICENSE
 ```
 
 ---
