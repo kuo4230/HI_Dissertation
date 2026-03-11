@@ -112,3 +112,7 @@ python iterations/DSA_Negative_Iteration8.py
 Data scraped: June 30 – July 1, 2018 · Reviews dated September 2010 – June 2018 · Google Play Store (UK, English)  
 Search string used: *"depression stress anxiety"*  
 Scrape duration: 1 hour 36 minutes across 157 apps
+
+Note: Scraper reflects Google Play's 2018 page structure 
+and is preserved as a research artifact. Current scraping 
+alternatives include google-play-scraper (PyPI).
